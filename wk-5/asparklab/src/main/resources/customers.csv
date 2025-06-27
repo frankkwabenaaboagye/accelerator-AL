@@ -1,0 +1,21 @@
+customer_id,name,age,location,join_date
+1,John Smith,28,New York,2023-01-15
+2,Sarah Johnson,34,Los Angeles,2023-02-20
+3,Mike Brown,22,Chicago,2023-01-10
+4,Emily Davis,45,Houston,2023-03-05
+5,David Wilson,31,Phoenix,2023-02-12
+6,Lisa Anderson,27,Philadelphia,2023-01-25
+7,Robert Taylor,39,San Antonio,2023-03-18
+8,Jennifer Martinez,26,San Diego,2023-02-08
+9,William Garcia,33,Dallas,2023-01-30
+10,Maria Rodriguez,29,San Jose,2023-02-28
+11,James Lee,41,Austin,2023-03-12
+12,Patricia White,35,Jacksonville,2023-01-18
+13,Christopher Harris,24,Fort Worth,2023-02-15
+14,Linda Clark,38,Columbus,2023-03-22
+15,Michael Lewis,32,Charlotte,2023-01-08
+16,Barbara Walker,43,San Francisco,2023-02-25
+17,Matthew Hall,30,Indianapolis,2023-03-01
+18,Elizabeth Allen,36,Seattle,2023-01-22
+19,Anthony Young,25,Denver,2023-02-18
+20,Susan King,40,Washington,2023-03-15

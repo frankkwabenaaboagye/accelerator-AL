@@ -22,7 +22,7 @@
         - Set up a local development environment for your chosen big data framework (Spark or Flink).
         - Utilize tutorials and sample datasets provided by the framework to build a basic recommendation engine. This could involve tasks like reading customer data from a file, filtering and analyzing purchase history, and generating product recommendations based on user preferences.
 - Solution
-    - [In Progress]
+    - [./asparklab/README.md](./asparklab/README.md)
 
 3. Fortifying Your Java Applications: Secure Coding and Cryptography
 - Scenario: You're developing a secure e-banking application for a financial institution. Mitigating security vulnerabilities is paramount to protecting sensitive user data (account information, financial transactions).

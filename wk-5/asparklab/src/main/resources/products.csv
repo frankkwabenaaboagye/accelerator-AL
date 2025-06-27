@@ -1,0 +1,21 @@
+product_id,name,category,price,brand
+101,Wireless Headphones,Electronics,199.99,TechSound
+102,Running Shoes,Sports,89.99,SportMax
+103,Coffee Maker,Kitchen,149.99,BrewMaster
+104,Smartphone,Electronics,699.99,PhoneTech
+105,Yoga Mat,Sports,29.99,FitLife
+106,Blender,Kitchen,79.99,BlendIt
+107,Laptop,Electronics,1299.99,CompuPro
+108,Basketball,Sports,24.99,SportMax
+109,Toaster,Kitchen,49.99,KitchenPro
+110,Tablet,Electronics,399.99,TabletCorp
+111,Dumbbells,Sports,149.99,FitLife
+112,Microwave,Kitchen,199.99,CookWave
+113,Smartwatch,Electronics,299.99,WearTech
+114,Tennis Racket,Sports,79.99,SportMax
+115,Air Fryer,Kitchen,129.99,FryMaster
+116,Gaming Mouse,Electronics,59.99,GameTech
+117,Protein Powder,Sports,39.99,NutriSport
+118,Stand Mixer,Kitchen,299.99,MixMaster
+119,Wireless Speaker,Electronics,129.99,SoundWave
+120,Resistance Bands,Sports,19.99,FitLife
