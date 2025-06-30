@@ -44,7 +44,7 @@
         - Set up a development environment with your chosen Java machine learning library (Scikit-learn or TensorFlow).
         - Follow tutorials to build a basic machine learning model for spam classification. This could involve tasks like preparing a training dataset of labeled emails (spam/not spam), training a classification model, and using the model to predict spam probability for new incoming emails.
 - Solution
-    - [In Progress]
+    - [./javaml/README.md](./javaml/README.md)
 
 5. Project: Develop a Cloud-Native Java Application
     - Design and develop a cloud-native Java application that leverages advanced Java features and integrates with a chosen cloud platform or big data framework.
