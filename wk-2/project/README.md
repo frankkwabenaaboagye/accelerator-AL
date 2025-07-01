@@ -18,3 +18,11 @@
 | 4     | **user-service**     | Manage user data (registration, profiles, auth)    |
 | 5     | **book-service**     | Manage books (CRUD operations, catalog)            |
 | 6     | **order-service**    | Manage orders (place, update, query)               |
+
+
+Links [Separate Repos]
+- [https://github.com/frankkwabenaaboagye/eureka-server](https://github.com/frankkwabenaaboagye/eureka-server)
+- [https://github.com/frankkwabenaaboagye/configserver](https://github.com/frankkwabenaaboagye/configserver)
+- [https://github.com/frankkwabenaaboagye/gateway-server](https://github.com/frankkwabenaaboagye/gateway-server)
+- [https://github.com/frankkwabenaaboagye/userservice](https://github.com/frankkwabenaaboagye/userservice)
+- [https://github.com/frankkwabenaaboagye/bookservice](https://github.com/frankkwabenaaboagye/bookservice)
