@@ -55,5 +55,5 @@
     - Deliverables:
         - A well-documented Java application demonstrating the chosen cloud platform/big data framework integration and advanced Java features.
         - A deployed application on the chosen cloud platform.
-- Solution
-    - [In Progress]
+- Solution (fixing issues...)
+    - [./javaproject/README.md](./javaproject/README.md)
